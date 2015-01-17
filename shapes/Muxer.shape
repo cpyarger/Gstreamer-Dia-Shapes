@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
-  <name>shape - Muxer</name>
+  <name>shapes - Muxer</name>
   <icon>Muxer.png</icon>
   <connections>
     <point x="0" y="0"/>
@@ -11,40 +11,40 @@
     <point x="4" y="1"/>
     <point x="2" y="2"/>
     <point x="2" y="0"/>
-    <point x="3.3951" y="0.4"/>
-    <point x="3.9951" y="1.4"/>
-    <point x="3.3951" y="1.4"/>
-    <point x="3.3951" y="0.9"/>
-    <point x="3.9951" y="0.4"/>
-    <point x="3.9951" y="0.9"/>
-    <point x="3.6951" y="1.4"/>
-    <point x="3.6951" y="0.4"/>
-    <point x="0.0048957" y="0"/>
-    <point x="0.604896" y="1"/>
-    <point x="0.0048957" y="1"/>
-    <point x="0.0048957" y="0.5"/>
-    <point x="0.604896" y="0"/>
-    <point x="0.604896" y="0.5"/>
-    <point x="0.304896" y="1"/>
-    <point x="0.304896" y="0"/>
-    <point x="0.0048957" y="1"/>
-    <point x="0.604896" y="2"/>
-    <point x="0.0048957" y="2"/>
-    <point x="0.0048957" y="1.5"/>
-    <point x="0.604896" y="1"/>
-    <point x="0.604896" y="1.5"/>
-    <point x="0.304896" y="2"/>
-    <point x="0.304896" y="1"/>
+    <point x="3.40135" y="0.4"/>
+    <point x="4.00135" y="1.4"/>
+    <point x="3.40135" y="1.4"/>
+    <point x="3.40135" y="0.9"/>
+    <point x="4.00135" y="0.4"/>
+    <point x="4.00135" y="0.9"/>
+    <point x="3.70135" y="1.4"/>
+    <point x="3.70135" y="0.4"/>
+    <point x="-0.00135426" y="0"/>
+    <point x="0.598646" y="1"/>
+    <point x="-0.00135426" y="1"/>
+    <point x="-0.00135426" y="0.5"/>
+    <point x="0.598646" y="0"/>
+    <point x="0.598646" y="0.5"/>
+    <point x="0.298646" y="1"/>
+    <point x="0.298646" y="0"/>
+    <point x="-0.00135426" y="1"/>
+    <point x="0.598646" y="2"/>
+    <point x="-0.00135426" y="2"/>
+    <point x="-0.00135426" y="1.5"/>
+    <point x="0.598646" y="1"/>
+    <point x="0.598646" y="1.5"/>
+    <point x="0.298646" y="2"/>
+    <point x="0.298646" y="1"/>
   </connections>
   <aspectratio type="fixed"/>
   <svg:svg>
     <svg:rect style="fill: #ffffff" x="0" y="0" width="4" height="2"/>
     <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0" y="0" width="4" height="2"/>
-    <svg:rect style="fill: #ffffff" x="3.3951" y="0.4" width="0.6" height="1"/>
-    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="3.3951" y="0.4" width="0.6" height="1"/>
-    <svg:rect style="fill: #ffffff" x="0.0048957" y="0" width="0.6" height="1"/>
-    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.0048957" y="0" width="0.6" height="1"/>
-    <svg:rect style="fill: #ffffff" x="0.0048957" y="1" width="0.6" height="1"/>
-    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.0048957" y="1" width="0.6" height="1"/>
+    <svg:rect style="fill: #ffffff" x="3.40135" y="0.4" width="0.6" height="1"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="3.40135" y="0.4" width="0.6" height="1"/>
+    <svg:rect style="fill: #ffffff" x="-0.00135426" y="0" width="0.6" height="1"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="-0.00135426" y="0" width="0.6" height="1"/>
+    <svg:rect style="fill: #ffffff" x="-0.00135426" y="1" width="0.6" height="1"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="-0.00135426" y="1" width="0.6" height="1"/>
   </svg:svg>
 </shape>

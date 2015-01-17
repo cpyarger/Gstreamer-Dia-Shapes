@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
-  <name>shape - Tee</name>
+  <name>shapes - Tee</name>
   <icon>Tee.png</icon>
   <connections>
     <point x="0" y="0"/>
@@ -28,12 +28,12 @@
     <point x="3.7" y="1"/>
     <point x="3.7" y="0"/>
     <point x="3.4" y="1"/>
-    <point x="4" y="2"/>
-    <point x="3.4" y="2"/>
-    <point x="3.4" y="1.5"/>
+    <point x="4" y="1.99375"/>
+    <point x="3.4" y="1.99375"/>
+    <point x="3.4" y="1.49688"/>
     <point x="4" y="1"/>
-    <point x="4" y="1.5"/>
-    <point x="3.7" y="2"/>
+    <point x="4" y="1.49688"/>
+    <point x="3.7" y="1.99375"/>
     <point x="3.7" y="1"/>
   </connections>
   <aspectratio type="fixed"/>
@@ -44,7 +44,7 @@
     <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0" y="0.4" width="0.6" height="1"/>
     <svg:rect style="fill: #ffffff" x="3.4" y="0" width="0.6" height="1"/>
     <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="3.4" y="0" width="0.6" height="1"/>
-    <svg:rect style="fill: #ffffff" x="3.4" y="1" width="0.6" height="1"/>
-    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="3.4" y="1" width="0.6" height="1"/>
+    <svg:rect style="fill: #ffffff" x="3.4" y="1" width="0.6" height="0.993751"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="3.4" y="1" width="0.6" height="0.993751"/>
   </svg:svg>
 </shape>
