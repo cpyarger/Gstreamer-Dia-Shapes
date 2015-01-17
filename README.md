@@ -6,6 +6,10 @@ Gstreamer Dia Shapes
 cp -R shapes ~/.dia
 cp -R sheets ~/.dia
 ```
+or run
+```BASH
+./install_to_home.sh
+```
 
 # Example:
 ## Preliminary Gstreamer Pipeline for [Kast](https://github.com/cpyarger/kast)
