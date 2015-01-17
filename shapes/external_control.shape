@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shape - external_control</name>
+  <icon>external_control.png</icon>
+  <connections>
+    <point x="0" y="0"/>
+    <point x="4" y="1.5"/>
+    <point x="0" y="1.5"/>
+    <point x="0" y="0.75"/>
+    <point x="4" y="0"/>
+    <point x="4" y="0.75"/>
+    <point x="2" y="1.5"/>
+    <point x="2" y="0"/>
+    <point x="1.20235" y="0.899664"/>
+    <point x="2.80235" y="1.49966"/>
+    <point x="1.20235" y="1.49966"/>
+    <point x="1.20235" y="1.19966"/>
+    <point x="2.80235" y="0.899664"/>
+    <point x="2.80235" y="1.19966"/>
+    <point x="2.00235" y="1.49966"/>
+    <point x="2.00235" y="0.899664"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="0" y="0" width="4" height="1.5"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0" y="0" width="4" height="1.5"/>
+    <svg:rect style="fill: #ffffff" x="1.20235" y="0.899664" width="1.6" height="0.6"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="1.20235" y="0.899664" width="1.6" height="0.6"/>
+  </svg:svg>
+</shape>

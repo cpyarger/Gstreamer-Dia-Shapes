@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shape - Filter</name>
+  <icon>Filter.png</icon>
+  <connections>
+    <point x="0" y="0"/>
+    <point x="4" y="2"/>
+    <point x="0" y="2"/>
+    <point x="0" y="1"/>
+    <point x="4" y="0"/>
+    <point x="4" y="1"/>
+    <point x="2" y="2"/>
+    <point x="2" y="0"/>
+    <point x="0.014865" y="0.48919"/>
+    <point x="0.614865" y="1.48919"/>
+    <point x="0.014865" y="1.48919"/>
+    <point x="0.014865" y="0.98919"/>
+    <point x="0.614865" y="0.48919"/>
+    <point x="0.614865" y="0.98919"/>
+    <point x="0.314865" y="1.48919"/>
+    <point x="0.314865" y="0.48919"/>
+    <point x="3.38513" y="0.524319"/>
+    <point x="3.98513" y="1.52432"/>
+    <point x="3.38513" y="1.52432"/>
+    <point x="3.38513" y="1.02432"/>
+    <point x="3.98513" y="0.524319"/>
+    <point x="3.98513" y="1.02432"/>
+    <point x="3.68513" y="1.52432"/>
+    <point x="3.68513" y="0.524319"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="0" y="0" width="4" height="2"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0" y="0" width="4" height="2"/>
+    <svg:rect style="fill: #ffffff" x="0.014865" y="0.48919" width="0.6" height="1"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.014865" y="0.48919" width="0.6" height="1"/>
+    <svg:rect style="fill: #ffffff" x="3.38513" y="0.524319" width="0.6" height="1"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="3.38513" y="0.524319" width="0.6" height="1"/>
+  </svg:svg>
+</shape>

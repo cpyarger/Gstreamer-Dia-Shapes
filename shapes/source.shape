@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>cpyarger - source</name>
+  <icon>source.png</icon>
+  <connections>
+    <point x="2.8" y="3.8"/>
+    <point x="5.6" y="5"/>
+    <point x="2.8" y="5"/>
+    <point x="2.8" y="4.4"/>
+    <point x="5.6" y="3.8"/>
+    <point x="5.6" y="4.4"/>
+    <point x="4.2" y="5"/>
+    <point x="4.2" y="3.8"/>
+    <point x="4.6" y="4"/>
+    <point x="5.6" y="4.8"/>
+    <point x="4.6" y="4.8"/>
+    <point x="4.6" y="4.4"/>
+    <point x="5.6" y="4"/>
+    <point x="5.6" y="4.4"/>
+    <point x="5.1" y="4.8"/>
+    <point x="5.1" y="4"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="2.8" y="3.8" width="2.8" height="1.2"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="2.8" y="3.8" width="2.8" height="1.2"/>
+    <svg:rect style="fill: #ffffff" x="4.6" y="4" width="1" height="0.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="4.6" y="4" width="1" height="0.8"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="5.1" y="4.5175" font-size="0.423333" textLength="0.495">src</svg:text>
+  </svg:svg>
+</shape>

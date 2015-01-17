@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<!--Dia-Version: 0.97.3-->
+<!--File: /home/cpyarger/.dia/sheets/GStreamer.sheet-->
+<!--Date: Fri Jan 16 22:20:45 2015-->
+<!--For: cpyarger-->
+
+<name>GStreamer</name>
+<description>GStreamer Shapes by CPYarger</description>
+<contents>
+<!--add shapes here-->
+<object name="shape - Tee">
+<description>GStreamer_Tee</description></object><object name="shape - Filter">
+<description>GStreamer_Filter</description></object><object name="shape - Sink">
+<description>GStreamer_Sink</description></object><object name="shape - Source">
+<description>GStreamer_Source</description></object><object name="shape - Muxer">
+<description>GStreamer_Muxer</description></object><object name="shape - external_control">
+<description>GStreamer_External_Control</description></object><object name="shape - Internal_control">
+<description>GStreamer_Internal_Control</description></object><object name="shape - 3_input_selector">
+<description>GStreamer_3_Input_Selector</description></object></contents></sheet>
